@@ -5,6 +5,10 @@
  'http://fonts.googleapis.com/css?family=Cabin:700,400' 
 }
 
+ .wrapper {
+     width: 100%;
+     margin: 0 auto;
+ }
 
 /* Base Styles -------------------- */
 
@@ -121,6 +125,11 @@ nav li {
   font-weight: 200;
   border-bottom: 2px solid;
   padding-bottom: 10px;
+}
+
+#about div {
+  max-width: 80%;
+  
 }
 
 .intro {
